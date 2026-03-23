@@ -2,9 +2,7 @@
 <h3 align="center">AI-First Full Stack Developer | MERN | Deployment & Security</h3>
 
 <p align="center">
-  I build real-world web applications that help businesses automate workflows, improve operations, and scale online.
-  <br/>
-  From frontend UI to backend systems, deployment, and security — I handle the full stack.
+  I code for fun and I help business grow by helping them automate their tasks and I create SEO friendly websites. Building software is my happiness :)
 </p>
 
 ---
