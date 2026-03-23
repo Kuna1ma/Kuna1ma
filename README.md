@@ -1,44 +1,57 @@
-<h1 align="center">Hi  I'm Rexavier Cenon</h1>
-<h3 align="center">AI-First Full Stack Developer | MERN | Deployment & Security</h3>
+<h1 align="center">Hi, I'm Rexavier Cenon</h1>
+<h3 align="center">AI-First Developer & Deployment and Security</h3>
 
 <p align="center">
-  I code for fun and I help business grow by helping them automate their tasks and I create SEO friendly websites. Building software is my happiness :)
+  Yes, you read it right. I'm an AI-first developer! Even though I code with AI, I still have strong fundamentals in programming and software development. I code for fun, and I help businesses grow by automating their tasks and creating SEO-friendly websites. Building software makes me happy :) !
 </p>
 
 ---
 
-##  What I Do
--  Build full-stack web applications (MERN)
--  Design clean, modern, and responsive UI/UX
--  Deploy apps using VPS (AWS / Ubuntu / Nginx)
--  Setup domains, DNS, and Cloudflare (SSL, protection, performance)
--  Implement authentication systems (JWT, Firebase, role-based access)
--  Perform basic security testing (API protection, auth flows, vulnerabilities)
--  Optimize websites for SEO and performance
+## About Me
+I build full-stack applications from frontend to backend, and I also handle deployment, domain setup, Cloudflare configuration, and software security testing. My goal is to create systems that are not only functional and scalable, but also reliable and secure in production.
+
+I was also part of the team behind the capstone project titled "Smart IoT Surveillance: Enhancing Security with Real-Time Component Removal and Intrusion Detection in Computer Laboratories," which received Top 3 Best Paper recognition at the 10th National Research Conference on Information Technology Education (NRCITE) on May 30, 2025. :contentReference[oaicite:1]{index=1}
 
 ---
 
-##  Tech Stack
-- **Frontend:** React, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other:** Python, Java
-- **Tools & DevOps:** Git, Firebase, Cloudflare, VPS (AWS/Ubuntu), Nginx
+## What I Do
+- Build full-stack web applications using the MERN stack
+- Design clean, modern, and responsive user interfaces
+- Deploy applications on VPS environments using AWS, Ubuntu, and Nginx
+- Configure domains, DNS, Cloudflare, SSL, and performance/security settings
+- Implement authentication systems such as JWT, Firebase, and role-based access
+- Perform software security testing for APIs, authentication flows, and common vulnerabilities
+- Optimize websites for SEO, speed, and production readiness
 
 ---
 
-##  Featured Projects
-
-###  Philippine Maids
-Booking platform for cleaning services with real-time scheduling, authentication, and role-based dashboards.
-
-###  Horizon
-Real-time chat web application using Socket.io and modern UI.
-
-###  Portfolio
-Personal portfolio showcasing projects, UI/UX design, and development work.
+## Tech Stack
+- Frontend: React, JavaScript, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Other Languages: Python, Java
+- Tools and DevOps: Git, Firebase, Cloudflare, VPS, AWS, Ubuntu, Nginx
 
 ---
 
-##  Contact Me
-- Email: gaculacenon@icloud.com | Phone: 09910487896
+## Featured Projects
+
+### Philippine Maids
+A booking platform for cleaning services with scheduling, authentication, and role-based dashboards.
+
+### Horizon
+A real-time chat web application built with modern UI and socket-based communication.
+
+### Portfolio
+A personal portfolio website that showcases my projects, design approach, and development work.
+
+---
+
+## Recognition
+- Top 3 Best Paper, Capstone Project, 10th National Research Conference on Information Technology Education (NRCITE), May 30, 2025 :contentReference[oaicite:2]{index=2}
+
+---
+
+## Contact
+- Email: gaculacenon@icloud.com
+- Phone: 09910487896
