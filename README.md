@@ -51,10 +51,10 @@ I am also the Leader and Lead Developer of the team behind the capstone project 
   <a href="https://github.com/Kuna1ma">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/zzcrex">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://facebook.com/yourusername">
+  <a href="https://facebook.com/rexavier.cenon">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook" />
   </a>
 </p>
