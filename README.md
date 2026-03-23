@@ -9,21 +9,7 @@
 
 <table>
   <tr>
-    <td width="40%" valign="top">
-
-## Tech Stack
-- Frontend: React, JavaScript, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Other Languages: Python, Java
-- Tools and DevOps: Git, Firebase, Cloudflare, VPS, AWS, Ubuntu, Nginx
-
-## Socials
-- Email: gaculacenon@icloud.com
-- Phone: 09910487896
-
-    </td>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
 ## About Me
 I build full-stack applications from frontend to backend, and I also handle deployment, domain setup, Cloudflare configuration, and software security testing. My goal is to create systems that are not only functional and scalable, but also reliable and secure in production.
@@ -40,6 +26,44 @@ I am also the Leader and Lead Developer of the team behind the capstone project 
 - Optimize websites for SEO, speed, and production readiness
 
     </td>
+    <td width="42%" valign="top">
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" />
+</p>
+
+## Socials
+
+<p>
+  <a href="https://github.com/Kuna1ma">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://facebook.com/yourusername">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
+
+## Recognition
+- Top 3 Best Paper, Capstone Project, 10th National Research Conference on Information Technology Education (NRCITE), May 30, 2025
+- Academic Excellence Award
+
+    </td>
   </tr>
 </table>
 
@@ -48,16 +72,8 @@ I am also the Leader and Lead Developer of the team behind the capstone project 
 ## Featured Projects
 
 ### Philippine Maids
-A booking platform for cleaning services with scheduling, authentication, and role-based dashboards.
+A full-stack booking platform for cleaning services in Abu Dhabi, designed to simplify customer bookings, cleaning service scheduling, and service management. The platform is deployed on a VPS and integrated with Cloudflare for secure domain handling, SSL, performance optimization, and added protection in production.  
+Website: abudhabi-philippinemaids.com
 
-### Horizon
-A real-time chat web application built with modern UI and socket-based communication.
-
-### Portfolio
-A personal portfolio website that showcases my projects, design approach, and development work.
-
----
-
-## Recognition
-- Top 3 Best Paper, Capstone Project, 10th National Research Conference on Information Technology Education (NRCITE), May 30, 2025
-- Academic Excellence Award
+### Smart IoT Surveillance
+A capstone project built to improve computer laboratory security through real-time intrusion detection and component removal monitoring. The system uses IoT-based monitoring to detect suspicious activity, strengthen asset protection, and support faster incident response in lab environments. **This project received Top 3 Best Paper recognition at the 10th National Research Conference on Information Technology Education (NRCITE).**
