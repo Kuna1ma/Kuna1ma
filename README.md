@@ -1,13 +1,5 @@
-<table width="100%">
-  <tr>
-    <td align="left" width="55%">
-      <strong>Hi, I'm Rexavier Cenon</strong>
-    </td>
-    <td align="right" width="45%">
-      <strong>AI-First Developer | Deployment and Security</strong>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi, I'm Rexavier Cenon</h1>
+<h3 align="center">AI-First Developer | Deployment and Security</h3>
 <p align="center">
   Yes, you read it right. I'm an AI-first developer! Even though I code with AI, I still have strong fundamentals in programming and software development. I code for fun, and I help businesses grow by automating their tasks and creating SEO-friendly websites. Building software makes me happy :)
 </p>
