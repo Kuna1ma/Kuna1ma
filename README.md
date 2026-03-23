@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.jpg" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Rexavier Cenon</h1>
 <h3 align="center">AI-First Developer | Deployment and Security</h3>
 <p align="center">
