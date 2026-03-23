@@ -10,7 +10,7 @@
 ## About Me
 I build full-stack applications from frontend to backend, and I also handle deployment, domain setup, Cloudflare configuration, and software security testing. My goal is to create systems that are not only functional and scalable, but also reliable and secure in production.
 
-I was also part of the team behind the capstone project titled "Smart IoT Surveillance: Enhancing Security with Real-Time Component Removal and Intrusion Detection in Computer Laboratories," which received Top 3 Best Paper recognition at the 10th National Research Conference on Information Technology Education (NRCITE) on May 30, 2025. :contentReference[oaicite:1]{index=1}
+I was also part of the team behind the capstone project titled "Smart IoT Surveillance: Enhancing Security with Real-Time Component Removal and Intrusion Detection in Computer Laboratories," which received **Top 3 Best Paper recognition at the 10th National Research Conference on Information Technology Education (NRCITE)** on May 30, 2025.
 
 ---
 
