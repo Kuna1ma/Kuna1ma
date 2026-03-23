@@ -61,7 +61,7 @@ I am also the Leader and Lead Developer of the team behind the capstone project 
 
 ## Recognition
 - Top 3 Best Paper, Capstone Project, 10th National Research Conference on Information Technology Education (NRCITE), May 30, 2025
-- Academic Excellence Award
+- Academic Excellence Award (Magna Cum Laude but I have 1 failed subject)
 
     </td>
   </tr>
