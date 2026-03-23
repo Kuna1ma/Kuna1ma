@@ -48,7 +48,8 @@ A personal portfolio website that showcases my projects, design approach, and de
 ---
 
 ## Recognition
-- Top 3 Best Paper, Capstone Project, 10th National Research Conference on Information Technology Education (NRCITE), May 30, 2025 :contentReference[oaicite:2]{index=2}
+- Top 3 Best Paper, Capstone Project, 10th National Research Conference on Information Technology Education (NRCITE), May 30, 2025
+- Academic Excellence Award (Magna Cumlaude - but i have 1 failed subject)
 
 ---
 
