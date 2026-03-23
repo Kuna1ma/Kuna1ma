@@ -73,7 +73,9 @@ I am also the Leader and Lead Developer of the team behind the capstone project 
 
 ### Philippine Maids
 A full-stack booking platform for cleaning services in Abu Dhabi, designed to simplify customer bookings, cleaning service scheduling, and service management. The platform is deployed on a VPS and integrated with Cloudflare for secure domain handling, SSL, performance optimization, and added protection in production.  
-Website: abudhabi-philippinemaids.com
+<a href="https://abudhabi-philippinemaids.com">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ### Smart IoT Surveillance
 A capstone project built to improve computer laboratory security through real-time intrusion detection and component removal monitoring. The system uses IoT-based monitoring to detect suspicious activity, strengthen asset protection, and support faster incident response in lab environments. **This project received Top 3 Best Paper recognition at the 10th National Research Conference on Information Technology Education (NRCITE).**
