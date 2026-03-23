@@ -78,3 +78,6 @@ A full-stack booking platform for cleaning services in Abu Dhabi, designed to si
 
 ### Smart IoT Surveillance --- **This project received Top 3 Best Paper recognition at the 10th National Research Conference on Information Technology Education (NRCITE).**
 A capstone project built to improve computer laboratory security through real-time intrusion detection and component removal monitoring. The system uses IoT-based monitoring to detect suspicious activity, strengthen asset protection, and support faster incident response in lab environments.
+<p align="center">
+  <img src="./images/nrcite-award.jpg" alt="Top 3 Best Paper NRCITE" width="70%" />
+</p>
