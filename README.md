@@ -1,11 +1,7 @@
 <table width="100%">
   <tr>
-    <td align="left">
-      <h1>Hi, I'm Rexavier Cenon</h1>
-    </td>
-    <td align="right">
-      <h3>AI-First Developer | Deployment and Security</h3>
-    </td>
+    <td align="left"><strong>Hi, I'm Rexavier Cenon</strong></td>
+    <td align="right"><strong>AI-First Developer | Deployment and Security</strong></td>
   </tr>
 </table>
 
